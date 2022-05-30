@@ -9,8 +9,6 @@ function TodoForm() {
         <input
           type="text"
           class="form-control"
-          aria-label="Recipient's username"
-          aria-describedby="button-addon2"
           value={input}
           placeholder="Add a task"
           name="text"
